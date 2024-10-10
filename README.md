@@ -1,1 +1,3 @@
-# non_functional-Bootstrap
+# TinDog Project
+## SVGs:
+## Text:
